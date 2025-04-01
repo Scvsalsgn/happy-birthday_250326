@@ -11,8 +11,8 @@
     z-index: 999;
     /* background: url("https://images.unsplash.com/photo-1513546493312-0066d7de3fd2?q=80&w=2770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") center/cover no-repeat #000; 使背景图片覆盖整个容器 */
      /* background: url("./img/img_start.avif") center/cover no-repeat #000;  */
-     /* background: url("./img/img_start.jpg") center/cover no-repeat #000;  */
-     background: url("https://mp-c3036ca5-d4f1-4495-acd5-cf521789bd80.cdn.bspapp.com/others/img_start.jpg") center/cover no-repeat #000; 
+     background: url("./img/img_start.jpg") center/cover no-repeat #000; 
+     /* background: url("https://mp-c3036ca5-d4f1-4495-acd5-cf521789bd80.cdn.bspapp.com/others/img_start.jpg") center/cover no-repeat #000;  */
     display: flex;
     justify-content: center;
     align-items: center;
